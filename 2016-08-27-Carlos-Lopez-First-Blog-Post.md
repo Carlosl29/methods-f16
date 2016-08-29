@@ -1,6 +1,6 @@
-layout : post
-title  : My First Blog
-author : Carlos Lopez
+layout: post
+title: My First Blog
+author: Carlos Lopez
 
 Note: I do apologize if my post mirrors Rachel's.
 I'm, like others from class, lost as to what the 
